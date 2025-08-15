@@ -41,14 +41,14 @@ src/
 --
  🚀 Usage
 
-Get Random Posts → Click the button to fetch posts from the API.
-Create Post → Use the form to publish your own post.
+Get Random Posts → Click the button to fetch posts from the API,
+Create Post → Use the form to publish your own post,
 View all posts in a card-based responsive layout.
 
 --
 📌 Future Improvements
 
-Add categories & filters for posts
-Allow image uploads
-Enable dark mode
-Store posts in a database
+Add categories & filters for posts,
+Allow image uploads,
+Enable dark mode,
+Store posts in a database.
